@@ -20,5 +20,7 @@ Stylized Content Image:
 
 
 # First Results of Fast Image Styling
+![input style](/sample_input_and_output/bastion.jpg)
+
 ![fast optimized images](/sample_input_and_output/bastion_grid_fast.png)
 
